@@ -6,7 +6,7 @@
 <!-- Início da seção "Sobre mim" -->
 <h2>👾 Sobre mim: </h2>
 <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="code">
-<p align="left">🌎 Eu me chamo Niwan Bernardo, tenho 21 anos e sou um <b>Analista de Dados</b> e <b>Desenvolvedor de Software</b> de São Paulo, SP.</p>
+<p align="left">🌎 Eu me chamo Niwan Bernardo, tenho 22 anos e sou um <b>Analista de Dados</b> e <b>Desenvolvedor de Software</b> de São Paulo, SP.</p>
 <p align="left">📚 Atualmente, estudo <b>Análise e Desenvolvimento de Sistemas</b> pela <b>Faculdade de Tecnologia de São Paulo (FATEC-SP)</b> e sou bolsista em alguns outros cursos profissionalizantes. </p>
 <p align="left">🚀 Meu objetivo é utilizar meus conhecimentos e habilidades para resolver problemas e contribuir com você através da <b>tecnologia</b> e da <b>matemática</b>.</p>
 <!-- Fim da seção "Sobre mim" -->
