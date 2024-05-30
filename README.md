@@ -66,7 +66,7 @@ Projetos em destaque: <a href="https://portfolio-niwanbernardo.vercel.app/">Port
 <b>FATEC-SP</b> • Curso Superior de Tecnologia (CST)<br>
 Linguagens & Tecnologias: <code>Front-End</code>, <code>Back-End</code>, <code>Dados</code>, <code>Mobile</code>, <code>IA</code><br>
 Projetos em destaque: <br><br>
-<p>📱 Por gentileza, para informações mais detalhadas sobre experiência profissional, formação, bootcamps e certificações, encontre-me no <a href="https://www.linkedin.com/in/niwanbernardo/">LinkedIn</a>.</p>
+<p>📱 Por gentileza, para informações mais detalhadas sobre experiência profissional, formação, bootcamps e certificações, encontre-me no <a href="https://www.linkedin.com/in/niwanbatista/">LinkedIn</a>.</p>
 <!-- Fim da seção "Formação" -->
 
 <!-- Início da seção "Contato" -->
