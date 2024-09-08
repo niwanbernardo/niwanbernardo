@@ -30,7 +30,7 @@
 </p>
 <!-- Fim da seção "Habilidades" -->
 
-<p>💼 Gostaria de convidar você a acessar meu <a href="https://portfolio-niwanbernardo.vercel.app/">site de portfólio</a>, pois você terá uma experiência única e poderá encontrar alguns serviços personalizados que posso oferecer para você.</p>
+<p>💼 Gostaria de convidar você a acessar meu <a href="https://niwanbatista.vercel.app/">site de portfólio</a>, pois você terá uma experiência única e poderá encontrar alguns serviços personalizados que posso oferecer para você.</p>
 
 <!-- Início da seção "Principais projetos" -->
 <h2>💡 Principais projetos: </h2>
@@ -41,8 +41,8 @@
     <a href="https://www.linkedin.com/feed/update/urn:li:activity:7086740929067253760/" target="_blank">
         <img src="https://i.postimg.cc/BvvcQyyr/Dashboard-Eletronicos-Niwan-Bernardo.png" min-width="250px" max-width="250px" width="250px" align="left" alt="Projeto 2">
     </a>
-    <a href="https://portfolio-niwanbernardo.vercel.app/" target="_blank">
-        <img src="https://i.postimg.cc/PxHSpddf/Miniatura-Website-Niwan.png" min-width="250px" max-width="250px" width="250px" align="" alt="Projeto 3">
+    <a href="https://niwanbatista.vercel.app/" target="_blank">
+        <img src="https://i.postimg.cc/28bY4kDh/mockup.png" min-width="250px" max-width="250px" width="250px" align="" alt="Projeto 3">
     </a>
 </ul>
 <!-- Fim da seção "Principais projetos" -->
