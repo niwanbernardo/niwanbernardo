@@ -74,7 +74,7 @@ Projetos em destaque: <br><br>
 <p>
 <a href="https://www.linkedin.com/in/niwanbatista/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height=25> </a>
 <a href="https://api.whatsapp.com/send?phone=5511991359164" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" height=25></a>
-<a href="https://www.instagram.com/devniwan/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height=25></a> 
+<a href="https://www.instagram.com/niwanbatista/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height=25></a> 
 <a href="https://github.com/niwanbernardo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" target="_blank" height=25 /></a>
 </p>
 <!-- Fim da seção "Contato" -->
