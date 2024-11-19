@@ -58,7 +58,13 @@ Projetos em destaque: <a href="https://www.linkedin.com/feed/update/urn:li:activ
 <a href="https://ada.tech/"><img align="left" height="94px" width="94px" alt="ADATech" src="https://ada-site-frontend.s3.sa-east-1.amazonaws.com/favicon.png"/></a>
 <b>Formação em Data Science | Santander Coders</b><br>
 <b>ADA Tech</b> • Certificado Profissional<br>
-Linguagens & Tecnologias: <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>TypeScript</code>, <code>React</code><br>
+Linguagens & Tecnologias: <code>Python</code>, <code>SQL</code>, <code>Machine Learning</code>, <code>IA</code><br>
+Projetos em destaque:<br><br>
+
+<a href="https://ada.tech/"><img align="left" height="94px" width="94px" alt="ADATech" src="https://ada-site-frontend.s3.sa-east-1.amazonaws.com/favicon.png"/></a>
+<b>Formação em Desenvolvimento WEB Front End</b><br>
+<b>ADA Tech</b> • Certificado Profissional<br>
+Linguagens & Tecnologias: <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>React</code><br>
 Projetos em destaque: <a href="https://portfolio-niwanbernardo.vercel.app/">Portfolio</a><br><br>
 
 <img align="left" height="94px" width="94px" alt="Fatec" src="https://th.bing.com/th/id/R.85d3a7a9d7ff00c632dac8f61d328aa0?rik=OwtGF04280yoEw&riu=http%3a%2f%2fwww.big1news.com.br%2fwp-content%2fuploads%2f2013%2f10%2ffatec-logo.jpg&ehk=8h2n2aS%2bSdawg9WDiAqe6e9GnYRSzGI6F0O5VjiFHrs%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1"/>
