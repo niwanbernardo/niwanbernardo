@@ -6,9 +6,9 @@
 <!-- Início da seção "Sobre mim" -->
 <h2>👾 Sobre mim: </h2>
 <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="code">
-<p align="left">🌎 Eu me chamo Niwan Bernardo, tenho 22 anos e sou um <b>Analista de Dados</b> e <b>Desenvolvedor de Software</b> de São Paulo, SP.</p>
+<p align="left">🌎 Eu me chamo Niwan Bernardo, sou um profissional da área de tecnologia com habilidades em <b>Dados</b> e <b>Desenvolvimento de Software</b> de São Paulo, SP.</p>
 <p align="left">📚 Atualmente, estudo <b>Análise e Desenvolvimento de Sistemas</b> pela <b>Faculdade de Tecnologia de São Paulo (FATEC-SP)</b> e sou bolsista em alguns outros cursos profissionalizantes. </p>
-<p align="left">🚀 Meu objetivo é utilizar meus conhecimentos e habilidades para resolver problemas e contribuir com você através da <b>tecnologia</b> e da <b>matemática</b>.</p>
+<p align="left">🚀 Meu objetivo é utilizar a tecnologia para resolver problemas e gerar valor ao negócio.</p>
 <!-- Fim da seção "Sobre mim" -->
 
 <!-- Início da seção "Habilidades" -->
@@ -50,13 +50,13 @@
 <!-- Início da seção "Formação" -->
 <h2>🎓 Formação: </h2>
 <img align="left" height="94px" width="94px" alt="Google" src="https://www.salesforceben.com/wp-content/uploads/2021/03/google-logo-icon-PNG-Transparent-Background-2048x2048.png"/>
-<b>Análise de Dados</b><br>
+<b>Formação em Análise de Dados</b><br>
 <b>Google</b> • Certificado Profissional<br>
 Linguagens & Tecnologias: <code>Excel</code>, <code>SQL</code>, <code>Tableau</code>, <code>R</code> <br>
 Projetos em destaque: <a href="https://www.linkedin.com/feed/update/urn:li:activity:7084604567148998656/">Perfomance Financeira</a>, <a href="https://www.linkedin.com/feed/update/urn:li:activity:7086740929067253760/">Perfomance de Vendas</a><br><br>
 
 <a href="https://ada.tech/"><img align="left" height="94px" width="94px" alt="ADATech" src="https://ada-site-frontend.s3.sa-east-1.amazonaws.com/favicon.png"/></a>
-<b>Desenvolvimento WEB Front-End</b><br>
+<b>Formação em Data Science | Santander Coders</b><br>
 <b>ADA Tech</b> • Certificado Profissional<br>
 Linguagens & Tecnologias: <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>TypeScript</code>, <code>React</code><br>
 Projetos em destaque: <a href="https://portfolio-niwanbernardo.vercel.app/">Portfolio</a><br><br>
