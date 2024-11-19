@@ -49,17 +49,18 @@
 
 <!-- Início da seção "Formação" -->
 <h2>🎓 Formação: </h2>
-<img align="left" height="94px" width="94px" alt="Google" src="https://www.salesforceben.com/wp-content/uploads/2021/03/google-logo-icon-PNG-Transparent-Background-2048x2048.png"/>
-<b>Formação em Análise de Dados</b><br>
-<b>Google</b> • Certificado Profissional<br>
-Linguagens & Tecnologias: <code>Excel</code>, <code>SQL</code>, <code>Tableau</code>, <code>R</code> <br>
-Projetos em destaque: <a href="https://www.linkedin.com/feed/update/urn:li:activity:7084604567148998656/">Perfomance Financeira</a>, <a href="https://www.linkedin.com/feed/update/urn:li:activity:7086740929067253760/">Perfomance de Vendas</a><br><br>
 
 <a href="https://ada.tech/"><img align="left" height="94px" width="94px" alt="ADATech" src="https://ada-site-frontend.s3.sa-east-1.amazonaws.com/favicon.png"/></a>
 <b>Formação em Data Science | Santander Coders</b><br>
 <b>ADA Tech</b> • Certificado Profissional<br>
 Linguagens & Tecnologias: <code>Python</code>, <code>SQL</code>, <code>Machine Learning</code>, <code>IA</code><br>
 Projetos em destaque:<br><br>
+
+<img align="left" height="94px" width="94px" alt="Google" src="https://www.salesforceben.com/wp-content/uploads/2021/03/google-logo-icon-PNG-Transparent-Background-2048x2048.png"/>
+<b>Formação em Análise de Dados</b><br>
+<b>Google</b> • Certificado Profissional<br>
+Linguagens & Tecnologias: <code>Excel</code>, <code>SQL</code>, <code>Tableau</code>, <code>R</code> <br>
+Projetos em destaque: <a href="https://www.linkedin.com/feed/update/urn:li:activity:7084604567148998656/">Perfomance Financeira</a>, <a href="https://www.linkedin.com/feed/update/urn:li:activity:7086740929067253760/">Perfomance de Vendas</a><br><br>
 
 <a href="https://ada.tech/"><img align="left" height="94px" width="94px" alt="ADATech" src="https://ada-site-frontend.s3.sa-east-1.amazonaws.com/favicon.png"/></a>
 <b>Formação em Desenvolvimento WEB Front End</b><br>
